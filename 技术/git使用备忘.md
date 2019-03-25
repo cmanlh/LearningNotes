@@ -11,5 +11,5 @@ export LESSCHARSET=utf-8
 ### 一个命令推送到多个远程库
 ``` bash
 git remote add all first-repo-url
-git remote set-url --add all second-repo-rul
+git remote set-url --add all second-repo-url
 ```
